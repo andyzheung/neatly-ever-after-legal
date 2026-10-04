@@ -7,4 +7,4 @@ Publish this directory as the root of a public GitHub Pages repository named `ne
 - Support: `https://andyzheung.github.io/neatly-ever-after-legal/`
 - Privacy: `https://andyzheung.github.io/neatly-ever-after-legal/privacy.html`
 
-Do not publish until the released build still has no data collection, advertising, analytics, or live in-app purchases. Update the policy first if those facts change.
+Before publishing, verify that the released build still has no data collection, advertising, analytics, crash-reporting, or tracking SDKs. The current policy documents the live, non-consumable Full Journey in-app purchase; update the policy and App Store privacy disclosure if those facts change.
